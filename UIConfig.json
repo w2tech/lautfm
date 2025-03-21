@@ -1,0 +1,16 @@
+{
+  "page": {
+    "label": "TRANSLATE.LAUTFM.UILABEL"
+  },
+  "sections": [
+   {
+      "id": "section_general",
+      "element": "section",
+      "label": "laut.fm does not need any configuration",
+      "icon": "fa-plug",      
+      "content": [
+        
+      ]
+    }
+  ]
+}
