@@ -1,1 +1,18 @@
-
+{
+        "PLUGINNAME": "LautFM",
+        "UILABEL": "laut.fm configuration",
+        "LAUTFM_CATEGORIES": "Categories",
+        "LAUTFM_STATIONS": "Stations",
+        "LAUTFM_GENRES": "Genres",
+        "LAUTFM_NO_DESCRIPTION": "Without description",
+        "LAUTFM_ERROR": "Error",
+        "LAUTFM_WAITING": "Waiting for radio channel", 
+        "LAUTFM": "Laut.fm",
+        "LAUTFM_PLAYING": "Playing",
+        "LAUTFM_STOP": "Stop",
+        "LAUTFM_PAUSE": "Pause",
+        "LAUTFM_RESUME": "Resume",  
+        "LAUTFM_SEARCH_RESULTS": "Search results",
+        "LAUTFM_SEARCH": "Search",
+        "LAUTFM_ATOZ": "A to Z"         
+}
